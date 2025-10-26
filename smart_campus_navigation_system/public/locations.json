@@ -1,0 +1,10 @@
+[
+  { "id": 1, "name": "Library", "lat": 17.3949, "lng": 78.3185, "type": "building", "description": "Main Library of CBIT" },
+  { "id": 2, "name": "CSE Block", "lat": 17.3952, "lng": 78.3178, "type": "building", "description": "Computer Science & Engineering Block" },
+  { "id": 3, "name": "Auditorium", "lat": 17.3942, "lng": 78.3191, "type": "building", "description": "College Auditorium" },
+  { "id": 4, "name": "Cafeteria", "lat": 17.3938, "lng": 78.3183, "type": "building", "description": "Campus Cafeteria" },
+  { "id": 5, "name": "Medical Room", "lat": 17.3947, "lng": 78.3190, "type": "emergency", "description": "Medical Help Center" },
+  { "id": 6, "name": "Admin Office", "lat": 17.3944, "lng": 78.3180, "type": "emergency", "description": "Administrative Office" },
+  { "id": 7, "name": "Security Office", "lat": 17.3936, "lng": 78.3176, "type": "emergency", "description": "Main Security Office" },
+  { "id": 8, "name": "CBIT Campus", "lat": 17.3946, "lng": 78.3180, "type": "building", "description": "Chaitanya Bharathi Institute of Technology" }
+]
